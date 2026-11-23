@@ -27,6 +27,8 @@ participating you are expected to uphold it.
 
 The quickest setup is a GitHub Codespace or VS Code Dev Container: `.devcontainer/devcontainer.json`
 provides Node 20, Docker (for e2e tests) and the Stellar CLI, and runs `npm ci` on create.
+New to the Stellar ecosystem? Check the [Glossary](./docs/glossary.md) for definitions of common
+terms like StrKey, SEP-10, muxed account, ScVal, and network passphrase before diving in.
 
 ```bash
 git clone https://github.com/stellar-compliance-kit/compliance-adapters.git
